@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Francesco, I'm an italian **Web Developer**, I know how to code in:
-📱HTML, CSS, JS
+📱HTML, CSS, JS \n
 🐍Python
 💎Ruby on Rails (still very new tho)
 
