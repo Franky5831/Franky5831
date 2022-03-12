@@ -1,9 +1,9 @@
 <img src= 'https://github.com/Franky5831/Franky5831/blob/main/banner.jpg' width="100%" />
 
-
+<br><br>
 ### Hi, I'm Francesco, I'm a 20 years old italian **Web Developer**, I got into coding back in 2019 with basic javascript projects and then built up my experiences. I stepped outside my comfort zone in late 2020 learning new languages and I'm always trying to improve and learn as much as possible.
 
-
+<br><br><br>
 ### skills and experience:
 * 📱 HTML, CSS, JS
 * 🐍 Python
