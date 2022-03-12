@@ -2,9 +2,9 @@
 
 
 ## skills and experience:
-* 📱HTML, CSS, JS
-* 🐍Python
-* 💎Ruby on Rails (still very new tho) <br> 
+* 📱 HTML, CSS, JS
+* 🐍 Python
+* 💎 Ruby on Rails (still very new tho) <br> 
 
 
 #
