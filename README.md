@@ -6,20 +6,18 @@
 ##
 
 <br><br><br>
-### skills and experience:
+## skills:
 * 📱 HTML, CSS, JS
 * 🐍 Python
-* 💎 Ruby on Rails (still very new tho) <br> 
+* 💎 Ruby on Rails (still very new tho)
+* ⚛️ bootstrap <br> 
 
 
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky5831)](https://github.com/anuraghazra/github-readme-stats)
 #
 
-
-
-
-### you can find me here:  <br>
+## you can find me here:  <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](www.instagram.com/francescociannavei/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Franky5831)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/user13599162)  
 
 
