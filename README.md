@@ -21,4 +21,4 @@
 <br><br>
 
 ## If you want to check out **my projects** on github you can start from here:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://github.com/Franky5831/html-css-spotifyweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](https://github.com/Franky5831/htmlcss-dropbox)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://franky5831.github.io/html-css-spotifyweb/) 
