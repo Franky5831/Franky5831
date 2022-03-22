@@ -13,7 +13,7 @@
 </ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky5831)](https://github.com/anuraghazra/github-readme-stats)
-<hr><br> <br> <br> 
+<br> <br> <br> 
 
 
 ## you can **find me here**:  <br>
