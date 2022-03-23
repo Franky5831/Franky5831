@@ -17,8 +17,16 @@
 
 
 ## you can **find me here**:  <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](www.instagram.com/francescociannavei/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Franky5831)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13599162/user13599162)  
+[<img src= 'logos/Instagram.svg' height="80px"/>](www.instagram.com/francescociannavei/) 
+[<img src= 'logos/Twitter.svg' height="80px"/>](https://twitter.com/Franky5831/) 
+
+
+
+
+
+
 <br><br>
 
 ## If you want to check out **my projects** on github you can start from here:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://franky5831.github.io/html-css-spotifyweb/) 
+[<img src= 'logos/PlayStation.svg' height="80px"/>](https://franky5831.github.io/html-css-spotifyweb/) 
+[<img src= 'logos/Spotify.svg' height="80px"/>](https://franky5831.github.io/html-css-spotifyweb/) 
