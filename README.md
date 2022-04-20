@@ -8,7 +8,8 @@
 <li> 📱 HTML, CSS, JS</li>
 <li> 🐍 Python</li>
 <li> 💎 Ruby on Rails (still very new tho)</li>
-<li> ⚛️ bootstrap</li> <br> <br> 
+<li> ⚛️ bootstrap</li>
+<li> ✌️ VueJS</li> <br> <br> 
 
 </ul>
 
