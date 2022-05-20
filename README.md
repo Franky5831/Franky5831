@@ -9,6 +9,8 @@
 <li> 🐍 Python</li>
 <li> 💎 Ruby on Rails (still very new tho)</li>
 <li> ⚛️ bootstrap</li>
+<li> ☁️ PHP</li>
+<li> 🧩 laravel</li>
 <li> ✌️ VueJS</li> <br> <br> 
 
 </ul>
