@@ -29,7 +29,7 @@
 
 <br><br>
 ## you can **find me here**:  <br>
-[<img src= 'logos/Instagram.svg' height="80px"/>](www.instagram.com/francescociannavei/) 
+[<img src= 'logos/Instagram.svg' height="80px"/>](https://instagram.com/francescociannavei/) 
 [<img src= 'logos/Twitter.svg' height="80px"/>](https://twitter.com/Franky5831/) 
 
 
