@@ -21,16 +21,16 @@
 
 
 ## If you want to check out **my projects** you can start from here:
-[<img src= 'logos/Spotify.svg' height="80px width="80px"/>](https://franky5831.github.io/html-css-spotifyweb/) 
-[<img src= 'logos/PlayStation.svg' height="80px width="80px"/>](https://franky5831.github.io/htmlcss-playstation/) 
-[<img src= 'logos/Whatsapp.svg' height="80px width="80px"/>](https://franky5831.github.io/vue-boolzapp/) 
+[<img src= 'logos/Spotify.svg' height="80px, width="80px"/>](https://franky5831.github.io/html-css-spotifyweb/) 
+[<img src= 'logos/PlayStation.svg' height="80px, width="80px"/>](https://franky5831.github.io/htmlcss-playstation/) 
+[<img src= 'logos/Whatsapp.svg' height="80px, width="80px"/>](https://franky5831.github.io/vue-boolzapp/) 
 
 
 
 
 <br><br>
 ## you can **find me here**:  <br>
-[<img src= 'logos/Instagram.svg' height="80px width="80px"/>](https://instagram.com/francescociannavei/) 
-[<img src= 'logos/Twitter.svg' height="80px width="80px"/>](https://twitter.com/Franky5831/) 
+[<img src= 'logos/Instagram.svg' height="80px, width="80px"/>](https://instagram.com/francescociannavei/) 
+[<img src= 'logos/Twitter.svg' height="80px, width="80px"/>](https://twitter.com/Franky5831/) 
 
 
