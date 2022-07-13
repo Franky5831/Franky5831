@@ -23,7 +23,7 @@
 ## If you want to check out **my projects** you can start from here:
 [<img src= 'logos/Spotify.svg' height="80px"/>](https://franky5831.github.io/html-css-spotifyweb/) 
 [<img src= 'logos/PlayStation.svg' height="80px"/>](https://franky5831.github.io/htmlcss-playstation/) 
-[<img src= 'logos/Whatsapp.svg' height="70px"/>](https://franky5831.github.io/vue-boolzapp/) 
+[<img src= 'logos/Whatsapp.svg' height="60px"/>](https://franky5831.github.io/vue-boolzapp/) 
 
 
 
