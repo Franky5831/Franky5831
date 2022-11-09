@@ -15,7 +15,7 @@
 
 </ul>
 
-[!](https://github-readme-stats.vercel.app/api?username=Franky5831)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franky5831)]
 <br> <br> <br> 
 
 
