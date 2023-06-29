@@ -7,7 +7,8 @@
 <ul>
 <li> 📱 HTML, CSS, JS</li>
 <li> 🐍 Python</li>
-<li> 💎 Ruby on Rails (still very new tho)</li>
+<li> 💎 Magento 2</li>
+<li> 🌎 wordpress</li>
 <li> ⚛️ bootstrap</li>
 <li> ✌️ VueJS</li>
 <li> ☁️ PHP</li>
