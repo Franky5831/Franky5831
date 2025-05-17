@@ -136,6 +136,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
@@ -176,11 +178,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Franky5831&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Franky5831&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Franky5831&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" />
+  
+
+<img class="output" src="https://github-readme-stats.vercel.app/api?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Franky5831&amp;theme=darcula&amp;hide_border=true" alt="github streak">
+<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+  
 </div>
 
 ###
