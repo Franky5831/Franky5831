@@ -12,7 +12,12 @@
 
 ###
 
-<p align="left">I'm Francesco<br><br>- 🔭 I’m working as a full stack developer<br>- 📚 I look into everything I find interesting, I'm currently studying LLMs, Python, Typescript, PgSQL and much more.<br>- ⚡ In my free time I like to code, play games and read comic books</p>
+<p align="left">
+  I'm Francesco<br>
+  - 🔭 I’m working as a full stack developer.<br>
+  - 📚 I look into everything I find interesting, I'm currently studying Machine Learning, Go and much more.<br>
+  - ⚡ In my free time I like to code, play games and read comic books.
+</p>
 
 ###
 
@@ -169,9 +174,9 @@
 <div align="center">
   
 
-<img class="output" src="https://gh-stats.deoxy.dev/api?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Franky5831&amp;theme=darcula&amp;hide_border=true" alt="github streak">
-<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+<img class="output" src="https://gh-stats.deoxy.dev/api?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;v=1" alt="github stats">
+<img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=Franky5831&amp;theme=darcula&amp;hide_border=true&amp;v=1" alt="github streak">
+<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franky5831&amp;theme=darcula&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;v=1" alt="github top languages">
   
 </div>
 
