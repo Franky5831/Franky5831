@@ -1,51 +1,18 @@
-<h1 align="center">Hey there 👋</h1>
+# Hey there 👋
 
-###
+## 🧑‍💻 About Me
 
-<h3 align="left">🧑‍💻 About Me</h3>
+Hi, I'm Francesco
 
-###
+* 🔭 I work as a full stack developer.<br>
+* 📚 I look into everything I find interesting. I'm currently learning about AI, GO, cyber security and much more.<br>
+* ⚡ In my free time I like to code, play games and read comic books.
 
-<p align="left">
-	I'm Francesco<br>
-	- 🔭 I’m working as a full stack developer.<br>
-	- 📚 I look into everything I find interesting, I'm currently studying Machine Learning, Go and much more.<br>
-	- ⚡ In my free time I like to code, play games and read comic books.
-</p>
+More about me [here](https://gh.ciannavei.link).
 
-###
+<br>
 
-<p align="left"></p>
-
-###
-
-<h3 align="left">📱	Where to find me</h3>
-
-###
-
-<div align="left">
-	<a href="https://www.linkedin.com/in/francesco-ciannavei/" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo"/>
-	</a>
-	<img width="12"/>
-	<a href="mailto:francesco@ciannavei.dev" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" alt="microsoft-outlook logo"/>
-	</a>
-	<img width="12"/>
-	<a href="https://wa.me/3713983105" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" alt="whatsapp logo"/>
-	</a>
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
+## 🛠 Languages and tools
 
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo"/>
@@ -165,11 +132,10 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="photoshop logo"/>
 </div>
 
-###
+<br>
 
-<h3 align="left">🔥	My Stats</h3>
+## 🔥 My Stats
 
-###
 
 <div align="center">
 	<img class="output" src="https://gh-stats.ciannavei.dev/api?theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="github stats">
