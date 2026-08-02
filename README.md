@@ -1,5 +1,3 @@
-# Hey there 👋
-
 ## 🧑‍💻 About Me
 
 Hi, I'm Francesco
@@ -19,7 +17,7 @@ More about me [here](https://gh.ciannavei.link).
 	<img width="12"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="postgresql logo"/>
 	<img width="12"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" alt="sql logo"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="mysql logo"/>
 	<img width="12"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo"/>
 	<img width="12"/>
@@ -142,5 +140,3 @@ More about me [here](https://gh.ciannavei.link).
 	<img class="output" src="https://gh-stats.ciannavei.dev/streak/?theme=darcula&hide_border=true" alt="github streak">
 	<img class="output" src="https://gh-stats.ciannavei.dev/api/top-langs/?theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="github top languages">
 </div>
-
-###
